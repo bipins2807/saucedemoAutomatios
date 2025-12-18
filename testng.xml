@@ -5,21 +5,21 @@
     <test name="ValidCheckout-Chrome">
         <parameter name="browser" value="chrome"/>
         <classes>
-            <class name="com.hybrid.framework.tests.CheckoutTests"/>
+            <class name="com.ra.saucedemo.test.CheckoutTests"/>
         </classes>
     </test>
 
     <test name="ValidCheckout-Firefox">
         <parameter name="browser" value="firefox"/>
         <classes>
-            <class name="com.hybrid.framework.tests.CheckoutTests"/>
+            <class name="com.ra.saucedemo.test.CheckoutTests"/>
         </classes>
     </test>
 
     <test name="ValidCheckout-Edge">
         <parameter name="browser" value="edge"/>
         <classes>
-            <class name="com.hybrid.framework.tests.CheckoutTests"/>
+            <class name="com.ra.saucedemo.test.CheckoutTests"/>
         </classes>
     </test>
 
@@ -27,21 +27,21 @@
     <test name="InvalidLogin-Chrome">
         <parameter name="browser" value="chrome"/>
         <classes>
-            <class name="com.hybrid.framework.tests.CheckoutTests"/>
+            <class name="com.ra.saucedemo.test.CheckoutTests"/>
         </classes>
     </test>
 
     <test name="InvalidLogin-Firefox">
         <parameter name="browser" value="firefox"/>
         <classes>
-            <class name="com.hybrid.framework.tests.CheckoutTests"/>
+            <class name="com.ra.saucedemo.test.CheckoutTests"/>
         </classes>
     </test>
 
     <test name="InvalidLogin-Edge">
         <parameter name="browser" value="edge"/>
         <classes>
-            <class name="com.hybrid.framework.tests.CheckoutTests"/>
+            <class name="com.ra.saucedemo.test.CheckoutTests"/>
         </classes>
     </test>
 
@@ -49,14 +49,14 @@
     <test name="MultipleProducts-Chrome">
         <parameter name="browser" value="chrome"/>
         <classes>
-            <class name="com.hybrid.framework.tests.CheckoutTests"/>
+            <class name="com.ra.saucedemo.test.CheckoutTests"/>
         </classes>
     </test>
 
     <test name="MultipleProducts-Firefox">
         <parameter name="browser" value="firefox"/>
         <classes>
-            <class name="com.hybrid.framework.tests.CheckoutTests"/>
+            <class name="com.ra.saucedemo.test.CheckoutTests"/>
         </classes>
     </test>
 
